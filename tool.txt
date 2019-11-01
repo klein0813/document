@@ -1,0 +1,3 @@
+log监听工具：D:\software\baretail.exe
+chrome new tab tool: D:\software\chrome component\simptab
+抓包工具：D:\software\Fiddler
