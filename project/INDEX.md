@@ -1,0 +1,25 @@
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Path</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>自动化脚本部署项目</td>
+            <td>
+                repo/project/issue/自动化部署脚本-日报/<br>
+                repo/sys/linux/小功能/开机脚本自启与周期性脚本执行.txt<br>
+                repo/sys/linux/小功能/ssh.txt
+            </td>
+        </tr>
+        <tr>
+            <td>监控脚本(开机自启，周期性监控)</td>
+            <td>
+                repo/project/issue/监控脚本-linux/<br>
+                repo/sys/linux/小功能/开机脚本自启与周期性脚本执行.txt
+            </td>
+        </tr>
+    </tbody>
+</table>
