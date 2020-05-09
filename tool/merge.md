@@ -14,7 +14,6 @@
 
 方式二
 ----
-*  cd ~/workspace/omnisocials/omnisocials-frontend/src/modules/nikedream
 *  git branch
 *  git fetch
 *  git rebase origin/develop 

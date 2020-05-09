@@ -1,0 +1,5 @@
+log监听工具： baretail.exe
+抓包工具：      Fiddler
+
+chrome 插件:  simptab
+                      SwitchyOmega_Chromium  // 用于设置代理
